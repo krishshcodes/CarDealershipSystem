@@ -1,0 +1,2 @@
+admin,1234,admin
+buyer,1111,client
